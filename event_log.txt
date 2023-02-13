@@ -1,0 +1,290 @@
+Dec 14, 2022 15:21:13  -  Connection established with device: 71854109
+Dec 14, 2022 15:21:13  -  Piezo control mode set to closed loop
+Dec 14, 2022 15:21:13  -  Connection established with device: P2006395
+Dec 14, 2022 15:21:13  -  Wavelength set to 1550 nm
+Dec 14, 2022 15:21:31  -  Scanned single pixel.
+Dec 14, 2022 15:22:35  -  X motor sent to 0.0 um. Y motor sent to 0.0 um
+Dec 14, 2022 15:22:36  -  Z motor sent to 0.0 um
+Dec 14, 2022 15:23:01  -  Scanned single pixel.
+Dec 14, 2022 15:23:35  -  X, Y values should be between 0 and 20.
+Dec 14, 2022 15:23:40  -  Scan finished.
+Dec 14, 2022 15:24:18  -  X, Y values should be between 0 and 20.
+Dec 14, 2022 15:24:34  -  X motor sent to 10.0 um. Y motor sent to 10.0 um
+Dec 14, 2022 15:24:35  -  FOV calculated.
+Dec 14, 2022 15:25:05  -  Connection established with device: 71854109
+Dec 14, 2022 15:25:05  -  Piezo control mode set to closed loop
+Dec 14, 2022 15:25:07  -  Connection established with device: P2006395
+Dec 14, 2022 15:25:07  -  Wavelength set to 1550 nm
+Dec 14, 2022 15:25:27  -  Scanned single pixel.
+Dec 14, 2022 15:25:35  -  Z motor sent to 0.0 um
+Dec 14, 2022 15:25:38  -  X motor sent to 10.0 um. Y motor sent to 10.0 um
+Dec 14, 2022 15:25:52  -  FOV calculated.
+Dec 14, 2022 15:26:11  -  FOV calculated.
+Dec 14, 2022 15:26:20  -  Scan finished.
+Dec 14, 2022 15:29:34  -  Connection established with device: 71854109
+Dec 14, 2022 15:29:34  -  Piezo control mode set to closed loop
+Dec 14, 2022 15:29:34  -  Connection established with device: P2006395
+Dec 14, 2022 15:29:34  -  Wavelength set to 1550 nm
+Dec 14, 2022 15:29:51  -  Scanned single pixel.
+Dec 14, 2022 15:30:00  -  X motor sent to 10.0 um. Y motor sent to 10.0 um
+Dec 14, 2022 15:30:05  -  Z motor sent to 0.0 um
+Dec 14, 2022 15:30:09  -  FOV calculated.
+Dec 14, 2022 15:30:25  -  FOV calculated.
+Dec 14, 2022 15:30:39  -  Scan finished.
+Dec 14, 2022 15:39:33  -  Connection established with device: P2006395
+Dec 14, 2022 15:39:33  -  Wavelength set to 1550 nm
+Dec 14, 2022 15:39:48  -  Scanned single pixel.
+Dec 14, 2022 15:40:32  -  Scanned single pixel.
+Dec 14, 2022 15:40:52  -  Scanned single pixel.
+Dec 14, 2022 15:41:18  -  Scanned single pixel.
+Dec 14, 2022 15:57:33  -  Connection established with device: 71854109
+Dec 14, 2022 15:57:33  -  Piezo control mode set to closed loop
+Dec 14, 2022 15:57:33  -  Connection established with device: P2006395
+Dec 14, 2022 15:57:33  -  Wavelength set to 1550 nm
+Dec 14, 2022 15:57:48  -  FOV calculated.
+Dec 14, 2022 15:57:53  -  Z motor sent to 0.0 um
+Dec 14, 2022 15:58:11  -  Scanned single pixel.
+Dec 14, 2022 15:58:28  -  Scan finished.
+Dec 14, 2022 15:59:33  -  Scanned single pixel.
+Dec 14, 2022 15:59:43  -  Scanned single pixel.
+Dec 14, 2022 15:59:54  -  Scanned single pixel.
+Dec 14, 2022 16:00:39  -  Scan finished.
+Dec 14, 2022 16:02:03  -  Scan finished.
+Dec 14, 2022 16:03:35  -  FOV calculated.
+Dec 14, 2022 16:03:52  -  X, Y ranges cannot be larger than 20 um. 
+Dec 14, 2022 16:04:09  -  FOV calculated.
+Dec 14, 2022 16:08:12  -  Scan finished.
+Dec 14, 2022 16:13:18  -  Scan finished.
+Dec 14, 2022 16:45:58  -  Connection established with device: 71854109
+Dec 14, 2022 16:45:58  -  Piezo control mode set to closed loop
+Dec 14, 2022 16:46:00  -  Connection established with device: P2006395
+Dec 14, 2022 16:46:00  -  Wavelength set to 1550 nm
+Dec 14, 2022 16:46:25  -  Scanned single pixel.
+Dec 14, 2022 16:46:52  -  FOV calculated.
+Dec 14, 2022 16:47:06  -  Scan finished.
+Dec 14, 2022 16:58:02  -  Connection established with device: 71854109
+Dec 14, 2022 16:58:03  -  Piezo control mode set to closed loop
+Dec 14, 2022 16:58:04  -  Connection established with device: P2006395
+Dec 14, 2022 16:58:04  -  Wavelength set to 1550 nm
+Dec 14, 2022 16:58:25  -  FOV calculated.
+Dec 14, 2022 16:58:33  -  Parameters saved.
+Dec 14, 2022 16:58:51  -  Scan finished.
+Dec 14, 2022 17:00:14  -  Scan finished.
+Dec 14, 2022 17:05:33  -  FOV calculated.
+Dec 14, 2022 17:05:37  -  Connection established with device: 71854109
+Dec 14, 2022 17:05:37  -  Piezo control mode set to closed loop
+Dec 14, 2022 17:05:43  -  Connection established with device: P2006395
+Dec 14, 2022 17:05:43  -  Wavelength set to 1550 nm
+Dec 14, 2022 17:05:56  -  Scanned single pixel.
+Dec 14, 2022 17:06:10  -  Scanned single pixel.
+Dec 14, 2022 17:06:26  -  Scan finished.
+Dec 14, 2022 17:07:22  -  FOV calculated.
+Dec 14, 2022 17:11:07  -  Scan finished.
+Dec 14, 2022 17:17:11  -  Scan finished.
+Dec 14, 2022 17:27:59  -  Scan finished.
+Dec 14, 2022 17:38:25  -  Scan finished.
+Dec 14, 2022 17:40:03  -  FOV calculated.
+Dec 14, 2022 17:41:14  -  Connection established with device: 71854109
+Dec 14, 2022 17:41:14  -  Piezo control mode set to closed loop
+Dec 14, 2022 17:41:18  -  Connection established with device: P2006395
+Dec 14, 2022 17:41:18  -  Wavelength set to 1550 nm
+Dec 14, 2022 17:41:46  -  z motor zeroed.
+Dec 14, 2022 17:41:54  -  X motor sent to 10.0 um. Y motor sent to 10.0 um
+Dec 14, 2022 17:42:02  -  FOV calculated.
+Dec 14, 2022 17:42:22  -  Scan finished.
+Dec 14, 2022 17:43:55  -  Scan finished.
+Dec 14, 2022 17:44:37  -  Scan finished.
+Dec 14, 2022 17:46:32  -  Connection established with device: 71854109
+Dec 14, 2022 17:46:32  -  Piezo control mode set to closed loop
+Dec 14, 2022 17:46:34  -  Connection established with device: P2006395
+Dec 14, 2022 17:46:34  -  Wavelength set to 1550 nm
+Dec 14, 2022 17:46:40  -  FOV calculated.
+Dec 14, 2022 17:46:58  -  Scan finished.
+Dec 14, 2022 17:47:43  -  Scan finished.
+Dec 14, 2022 17:48:30  -  Scan finished.
+Dec 14, 2022 17:49:29  -  Scan finished.
+Dec 14, 2022 17:50:19  -  Scan finished.
+Dec 14, 2022 17:50:43  -  FOV calculated.
+Dec 14, 2022 17:50:56  -  FOV calculated.
+Dec 14, 2022 17:51:07  -  FOV calculated.
+Dec 14, 2022 17:52:20  -  Scan finished.
+Dec 14, 2022 17:54:06  -  Scan finished.
+Dec 14, 2022 17:56:49  -  Z motor sent to 1.0 um
+Dec 14, 2022 17:57:57  -  Scan finished.
+Dec 14, 2022 17:59:27  -  Z motor sent to 2.0 um
+Dec 14, 2022 18:00:35  -  Scan finished.
+Dec 14, 2022 18:02:59  -  Z motor sent to 1.0 um
+Dec 14, 2022 18:04:06  -  Scan finished.
+Dec 14, 2022 18:06:31  -  Scan finished.
+Dec 14, 2022 18:08:46  -  Scan finished.
+Dec 14, 2022 18:10:48  -  Scan finished.
+Dec 14, 2022 18:12:54  -  Scan finished.
+Dec 14, 2022 18:13:24  -  FOV calculated.
+Dec 14, 2022 18:13:41  -  FOV calculated.
+Dec 14, 2022 18:18:20  -  Scan finished.
+Dec 14, 2022 18:22:10  -  Parameters saved.
+Dec 14, 2022 18:30:47  -  Connection established with device: 71854109
+Dec 14, 2022 18:30:47  -  Piezo control mode set to closed loop
+Dec 14, 2022 18:30:50  -  Connection established with device: P2006395
+Dec 14, 2022 18:30:50  -  Wavelength set to 1550 nm
+Dec 14, 2022 18:31:27  -  Connection established with device: 71854109
+Dec 14, 2022 18:31:27  -  Piezo control mode set to closed loop
+Dec 14, 2022 18:31:29  -  Connection established with device: P2006395
+Dec 14, 2022 18:31:29  -  Wavelength set to 1550 nm
+Dec 14, 2022 18:31:46  -  FOV calculated.
+Dec 14, 2022 18:32:05  -  Scanned single pixel.
+Dec 14, 2022 18:32:16  -  Scan finished.
+Dec 14, 2022 18:34:00  -  Scanned single pixel.
+Dec 14, 2022 18:36:05  -  Scanned single pixel.
+Dec 14, 2022 18:36:24  -  Scanned single pixel.
+Dec 14, 2022 18:36:45  -  Scanned single pixel.
+Dec 14, 2022 18:37:02  -  Scanned single pixel.
+Dec 14, 2022 18:37:18  -  Scanned single pixel.
+Dec 14, 2022 18:37:34  -  Scanned single pixel.
+Dec 14, 2022 18:37:45  -  Scan finished.
+Dec 14, 2022 18:38:11  -  FOV calculated.
+Dec 14, 2022 18:38:25  -  Scan finished.
+Dec 14, 2022 18:38:53  -  Scan finished.
+Dec 14, 2022 18:39:19  -  FOV calculated.
+Dec 14, 2022 18:40:37  -  Scan finished.
+Dec 14, 2022 18:42:31  -  Scan finished.
+Dec 14, 2022 18:57:31  -  Scan finished.
+Dec 14, 2022 19:00:16  -  Scan finished.
+Dec 14, 2022 19:03:15  -  Scan finished.
+Dec 14, 2022 19:04:05  -  Parameters saved.
+Dec 14, 2022 19:09:50  -  Connection established with device: 71854109
+Dec 14, 2022 19:09:50  -  Piezo control mode set to closed loop
+Dec 14, 2022 19:09:52  -  Connection established with device: P2006395
+Dec 14, 2022 19:09:52  -  Wavelength set to 1550 nm
+Dec 14, 2022 19:09:57  -  FOV calculated.
+Dec 14, 2022 19:10:16  -  Scanned single pixel.
+Dec 14, 2022 19:11:48  -  Scan finished.
+Dec 14, 2022 19:14:03  -  Scan finished.
+Dec 14, 2022 19:16:38  -  Scan finished.
+Dec 15, 2022 08:08:46  -  Piezo connection failed. Check serial number.
+Dec 15, 2022 10:30:31  -  Connection established with device: 71854109
+Dec 15, 2022 10:30:31  -  Piezo control mode set to closed loop
+Dec 15, 2022 10:30:33  -  Connection established with device: P2006395
+Dec 15, 2022 10:30:33  -  Wavelength set to 1550 nm
+Dec 15, 2022 10:51:53  -  Connection established with device: 71854109
+Dec 15, 2022 10:51:53  -  Piezo control mode set to closed loop
+Dec 15, 2022 10:51:54  -  Connection established with device: P2006395
+Dec 15, 2022 10:51:54  -  Wavelength set to 1550 nm
+Dec 15, 2022 10:51:58  -  FOV calculated.
+Dec 15, 2022 10:52:07  -  FOV calculated.
+Jan 03, 2023 17:25:49  -  Connection established with device: P2006395
+Jan 03, 2023 17:25:49  -  Wavelength set to 1550 nm
+Jan 03, 2023 17:26:31  -  Connection established with device: P0024513
+Jan 03, 2023 17:26:31  -  Piezo connection failed. Check serial number.
+Jan 03, 2023 17:26:41  -  Connection established with device: P0024513
+Jan 03, 2023 17:26:41  -  Piezo connection failed. Check serial number.
+Jan 03, 2023 17:29:35  -  Connection established with device: P0024513
+Jan 03, 2023 17:29:35  -  Wavelength set to 1550 nm
+Jan 03, 2023 17:30:00  -  Scanned single pixel.
+Jan 03, 2023 17:30:17  -  Scanned single pixel.
+Jan 03, 2023 17:31:01  -  Connection established with device: P2006395
+Jan 03, 2023 17:31:01  -  Piezo connection failed. Check serial number.
+Jan 03, 2023 17:31:44  -  Connection established with device: P2006395
+Jan 03, 2023 17:31:44  -  Wavelength set to 1550 nm
+Jan 03, 2023 17:31:57  -  Scanned single pixel.
+Jan 17, 2023 17:19:59  -  Connection established with device: 71854109
+Jan 17, 2023 17:19:59  -  Piezo control mode set to closed loop
+Jan 17, 2023 17:20:31  -  Connection established with device: P0022601
+Jan 17, 2023 17:20:31  -  Wavelength set to 1550 nm
+Jan 17, 2023 18:12:48  -  Connection established with device: P0022601
+Jan 17, 2023 18:12:48  -  Wavelength set to 1550 nm
+Jan 17, 2023 21:54:07  -  FOV calculated.
+Jan 17, 2023 21:54:14  -  FOV calculated.
+Jan 17, 2023 21:54:50  -  Connection established with device: 71854109
+Jan 17, 2023 21:54:50  -  Piezo control mode set to closed loop
+Jan 17, 2023 21:54:51  -  Connection established with device: P2006395
+Jan 17, 2023 21:54:51  -  Piezo connection failed. Check serial number.
+Jan 17, 2023 21:55:16  -  Connection established with device: P0022601
+Jan 17, 2023 21:55:16  -  Wavelength set to 1550 nm
+Jan 17, 2023 21:55:41  -  FOV calculated.
+Jan 17, 2023 21:56:38  -  FOV calculated.
+Jan 17, 2023 21:56:42  -  Connection established with device: 71854109
+Jan 17, 2023 21:56:42  -  Piezo control mode set to closed loop
+Jan 17, 2023 21:56:48  -  Connection established with device: P0022601
+Jan 17, 2023 21:56:48  -  Wavelength set to 1550 nm
+Jan 17, 2023 21:57:28  -  Connection established with device: 71854109
+Jan 17, 2023 21:57:28  -  Piezo control mode set to closed loop
+Jan 17, 2023 21:57:34  -  Connection established with device: P0022601
+Jan 17, 2023 21:57:34  -  Wavelength set to 1550 nm
+Jan 17, 2023 21:57:45  -  FOV calculated.
+Jan 17, 2023 21:58:46  -  FOV calculated.
+Jan 17, 2023 21:59:39  -  Connection established with device: 71854109
+Jan 17, 2023 21:59:39  -  Piezo control mode set to closed loop
+Jan 17, 2023 21:59:39  -  Connection established with device: P2006395
+Jan 17, 2023 21:59:39  -  Piezo connection failed. Check serial number.
+Jan 17, 2023 22:00:14  -  FOV calculated.
+Jan 17, 2023 22:00:41  -  Connection established with device: 71854109
+Jan 17, 2023 22:00:41  -  Piezo control mode set to closed loop
+Jan 17, 2023 22:00:43  -  Connection established with device: P2006395
+Jan 17, 2023 22:00:43  -  Wavelength set to 1550 nm
+Jan 17, 2023 22:00:48  -  X motor sent to 10.0 um. Y motor sent to 10.0 um
+Jan 17, 2023 22:00:52  -  FOV calculated.
+Jan 17, 2023 22:01:40  -  Scan finished.
+Jan 17, 2023 22:04:53  -  Scan finished.
+Jan 17, 2023 22:08:23  -  Scan finished.
+Jan 17, 2023 22:10:05  -  Scan finished.
+Jan 17, 2023 22:12:01  -  Scan finished.
+Jan 17, 2023 22:12:46  -  Scanned single pixel.
+Jan 17, 2023 22:13:31  -  Scanned single pixel.
+Jan 17, 2023 22:13:54  -  Scanned single pixel.
+Jan 17, 2023 22:14:20  -  Scanned single pixel.
+Jan 17, 2023 22:14:32  -  Scanned single pixel.
+Jan 17, 2023 22:15:59  -  Scan finished.
+Jan 18, 2023 23:06:54  -  Piezo connection failed. Check serial number.
+Jan 26, 2023 18:05:57  -  Connection established with device: 71854109
+Jan 26, 2023 18:05:57  -  Piezo control mode set to closed loop
+Jan 26, 2023 18:06:10  -  Connection established with device: P2006395
+Jan 26, 2023 18:06:10  -  Wavelength set to 1550 nm
+Jan 26, 2023 18:06:20  -  FOV calculated.
+Jan 26, 2023 18:06:40  -  Scanned single pixel.
+Jan 26, 2023 18:08:00  -  Scan finished.
+Jan 26, 2023 18:10:46  -  Scan finished.
+Feb 13, 2023 15:16:49  -  Connection established with device: 71854109
+Feb 13, 2023 15:16:49  -  Piezo control mode set to closed loop
+Feb 13, 2023 15:16:55  -  Connection established with device: P2006395
+Feb 13, 2023 15:16:55  -  Wavelength set to 1550 nm
+Feb 13, 2023 15:17:13  -  Scanned single pixel.
+Feb 13, 2023 15:17:30  -  Scanned single pixel.
+Feb 13, 2023 15:17:45  -  Scanned single pixel.
+Feb 13, 2023 15:17:50  -  X motor sent to 10.0 um. Y motor sent to 10.0 um
+Feb 13, 2023 15:17:51  -  FOV calculated.
+Feb 13, 2023 15:19:09  -  Scan finished.
+Feb 13, 2023 15:23:58  -  Scan finished.
+Feb 13, 2023 15:26:07  -  Z motor sent to 10.0 um
+Feb 13, 2023 15:27:25  -  Scan finished.
+Feb 13, 2023 15:28:52  -  Z motor sent to 19.0 um
+Feb 13, 2023 15:30:07  -  Scan finished.
+Feb 13, 2023 15:31:39  -  Z motor sent to 10.0 um
+Feb 13, 2023 15:31:55  -  Scanned single pixel.
+Feb 13, 2023 15:32:11  -  Scanned single pixel.
+Feb 13, 2023 15:32:26  -  Scanned single pixel.
+Feb 13, 2023 15:32:40  -  Scanned single pixel.
+Feb 13, 2023 15:32:52  -  Scanned single pixel.
+Feb 13, 2023 15:34:14  -  Scan finished.
+Feb 13, 2023 15:35:04  -  FOV calculated.
+Feb 13, 2023 15:36:13  -  Connection established with device: 71854109
+Feb 13, 2023 15:36:13  -  Piezo control mode set to closed loop
+Feb 13, 2023 15:36:15  -  Connection established with device: P2006395
+Feb 13, 2023 15:36:15  -  Wavelength set to 1550 nm
+Feb 13, 2023 15:36:31  -  FOV calculated.
+Feb 13, 2023 15:36:44  -  Scan finished.
+Feb 13, 2023 15:37:49  -  FOV calculated.
+Feb 13, 2023 15:38:04  -  Scan finished.
+Feb 13, 2023 15:39:10  -  FOV calculated.
+Feb 13, 2023 15:40:01  -  Scan finished.
+Feb 13, 2023 15:41:50  -  Scan finished.
+Feb 13, 2023 15:47:04  -  Connection established with device: P2006395
+Feb 13, 2023 15:47:04  -  Piezo connection failed. Check serial number.
+Feb 13, 2023 16:35:39  -  Connection established with device: 71854109
+Feb 13, 2023 16:35:39  -  Piezo control mode set to closed loop
+Feb 13, 2023 16:35:42  -  Connection established with device: P2006395
+Feb 13, 2023 16:35:42  -  Wavelength set to 1550 nm
+Feb 13, 2023 16:35:55  -  FOV calculated.
+Feb 13, 2023 16:36:00  -  Z motor sent to 10.0 um
+Feb 13, 2023 16:36:32  -  Scanned single pixel.
+Feb 13, 2023 16:36:45  -  Scan finished.

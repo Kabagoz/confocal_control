@@ -1,0 +1,1 @@
+{"step_size_x_y": 0.2, "step_size_z": 1.0, "center_x": 10.0, "center_y": 10.0, "center_z": 1.0, "range_x": 20.0, "range_y": 20.0, "range_z": 0.0, "num_pixels_x": 99, "num_pixels_y": 99, "num_pixels_z": 1, "num_frames": 1, "piezo_ID": "71854109", "center_x_singlepix": 1.0, "center_y_singlepix": 1.0, "center_z_singlepix": 1.0, "daq_ID": "P2006395"}
